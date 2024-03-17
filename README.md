@@ -15,6 +15,7 @@ Cara Menjalankan Program
 7.	Program akan menampilkan hasil output dari program bubble sort, selection sort dan insertion sort.
    
 Fungsi yang Digunakan
+
 void generateNumbers() : Fungsi yang akan menghasilkan bilangan acak dan menyimpan dalam sebuah array.
 void bubbleSort(): Fungsi ini melakukan pengurutan terhadap kumpulan bilangan menggunakan algoritma Bubble Sort.
 void selectionSort(): Fungsi ini mengurutkan kumpulan bilangan dengan algoritma Selection Sort.
