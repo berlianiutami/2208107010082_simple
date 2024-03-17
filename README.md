@@ -17,10 +17,15 @@ Cara Menjalankan Program
 Fungsi yang Digunakan
 
 void generateNumbers() : Fungsi yang akan menghasilkan bilangan acak dan menyimpan dalam sebuah array.
+
 void bubbleSort(): Fungsi ini melakukan pengurutan terhadap kumpulan bilangan menggunakan algoritma Bubble Sort.
+
 void selectionSort(): Fungsi ini mengurutkan kumpulan bilangan dengan algoritma Selection Sort.
+
 void insertionSort(): Fungsi ini mengurutkan kumpulan bilangan menggunakan algoritma Insertion Sort
+
 void writeUnsortedToFile(): Fungsi ini digunakan untuk menulis bilangan yang terdapat dalam kumpulan ke dalam sebuah file sebelum dilakukan proses pengurutan.
+
 void writeSortedFile(): Fungsi ini digunakan untuk bilangan yang sudah terurut dalam kumpulan ke dalam sebuah file setelah proses pengurutan selesai dilakukan.
 
 
