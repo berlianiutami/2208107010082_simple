@@ -1,11 +1,11 @@
-#Deskripsi
+# Deskripsi
 
 Program berikut ini merupakan impelemntasi sederhana dari beberapa algoritma pengurutan dan penyusunan angka dalam Bahasa C. Algoritma berikut yaitu:
 1.	Buble Sort
 2.	Selection Sort
 3.	Insertion Sort
 
-#Cara Menjalankan Program
+# Cara Menjalankan Program
 1.	Pastikan anda memiliki compiler C yang terinstal di sistem anda, seperti GCC.
 2.	Buka terminal atau command prompt.
 3.	Salin kode program dari file 2208107010082_Simple_Sorting.c ke dalam file baru.
@@ -14,7 +14,7 @@ Program berikut ini merupakan impelemntasi sederhana dari beberapa algoritma pen
 6.	Jalankan program yang telah dikompilasi, misalnya: ./ 2208107010082_Simple_Sorting.c
 7.	Program akan menampilkan hasil output dari program bubble sort, selection sort dan insertion sort.
    
-#Fungsi yang Digunakan
+# Fungsi yang Digunakan
 
 void generateNumbers() : Fungsi yang akan menghasilkan bilangan acak dan menyimpan dalam sebuah array.
 
